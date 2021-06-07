@@ -1,0 +1,19 @@
+name: RL_venv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip=21.0
+  - jupyterlab
+  - pandas=1.2.*
+  - numpy=1.20.*
+  - scipy=1.6.*
+  - scikit-learn=0.24.*
+  - tensorflow=2.4.*
+  - matplotlib=3.3.*
+  - seaborn=0.11.*
+  - joblib
+  - tqdm
+  - pip:
+    - pymdptoolbox==4.0b3
