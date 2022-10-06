@@ -8,11 +8,12 @@ Repository content:
 
 If you use this code in your research, please cite the following publication:
 ```
-@InProceedings{tang2021offline,
-    author = {Tang, Shengpu and Wiens, Jenna},
-    title = {Model Selection for Offline Reinforcement Learning: Practical Considerations for Healthcare Settings},
-    booktitle = {Machine Learning for Healthcare Conference}
-    year = {2021},
+@inproceedings{tang2021offline,
+    author={Tang, Shengpu and Wiens, Jenna},
+    title={Model Selection for Offline Reinforcement Learning: Practical Considerations for Healthcare Settings},
+    booktitle={Machine Learning for Healthcare Conference},
+    pages={2--35},
+    year={2021}
 }
 ```
 
